@@ -1,0 +1,31 @@
+body{
+    background-color: grey;
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12rem;
+}
+
+main{
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+}
+
+section{
+    background-color: rgb(26, 6, 26);
+    width: 1000px;
+    height: 600px;
+    background-image: url(images/giphy\ \(1\).webp);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    
+
+}
+
+section:hover{
+    cursor: pointer;
+}
+ section:active{
+    
+ }
